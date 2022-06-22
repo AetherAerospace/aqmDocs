@@ -10,6 +10,8 @@ Introduction
 Installation
 ------------
 
+Follow the Steps below to Prepare, Build and Flash the newest Version of AQM onto your ESP32
+
 Requirements
 ^^^^^^^^^^^^
 
