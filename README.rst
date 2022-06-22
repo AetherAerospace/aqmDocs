@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+AQM Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+powered by readTheDocs
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.readthedocs.io/en/stable/about.html
