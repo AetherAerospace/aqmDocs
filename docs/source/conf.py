@@ -4,7 +4,7 @@
 
 project = 'AQM'
 copyright = '2022, Aether Engineering'
-author = 'k1f0'
+author = 'k1f0, f1re'
 
 release = '1.0'
 version = '1.0.0'
